@@ -7,7 +7,8 @@
 
 
 #### b.
-https://prnt.sc/1lub1ia
+![image](https://user-images.githubusercontent.com/44971394/135821455-c259a69e-513d-4edb-a8d9-72be10b23f71.png)
+
 
 *Почему нужно использовать консольное подключение для первоначальной настройки коммутатора? Почему нельзя подключиться к коммутатору через Telnet или SSH?*
 **Потому что это самое безопасное и настроенное по умолчанию подключение. Для использование telnet и ssh необходим другой кабель(RJ 45) и знание ip-адреса устройства.**
@@ -15,7 +16,8 @@ https://prnt.sc/1lub1ia
 ### Шаг 2
 
 #### a. 
-https://prnt.sc/1luforb
+![image](https://user-images.githubusercontent.com/44971394/135821548-80fc1d6a-f77a-46ab-92a7-5c36afb8116c.png)
+
 
 #### b. 
 *Сколько интерфейсов FastEthernet имеется на коммутаторе 2960?*
@@ -56,7 +58,8 @@ interface Vlan1
 
 #### f.
 *Какие выходные данные вы видите?*
-https://prnt.sc/1luu8v4
+![image](https://user-images.githubusercontent.com/44971394/135821877-d0ff8937-a0b7-4653-a3a7-86a31eee7b82.png)
+
 
 
 #### g.
@@ -70,7 +73,8 @@ https://prnt.sc/1luu8v4
 **00:17:59:A7:51:80**
 
 #### h.
-https://prnt.sc/1lv0d53
+![image](https://user-images.githubusercontent.com/44971394/135821933-b4572fed-700a-40a7-ad06-a9f753a67f2c.png)
+
 
 *Интерфейс включен или выключен?*
 **Выключен**
@@ -95,7 +99,7 @@ https://prnt.sc/1lv0d53
 
 #### j.
 *Какое имя присвоено образу Cisco IOS?*
-https://prnt.sc/1lv3q20
+![image](https://user-images.githubusercontent.com/44971394/135822063-33476c06-198b-4606-8c4b-3d0e26a2d19b.png)
 
 
 ## Часть 2
@@ -103,24 +107,27 @@ https://prnt.sc/1lv3q20
 ### Шаг 1.
 
 #### a. 
-https://prnt.sc/1u7opfz
+![image](https://user-images.githubusercontent.com/44971394/135822098-ab55a633-d6d7-4be3-b514-4914af6ccab2.png)
 
 #### b. 
-https://prnt.sc/1u7osqs
+![image](https://user-images.githubusercontent.com/44971394/135822131-2edea39e-8e5e-46b8-8f13-8fab0515cbf7.png)
 
 #### c.
-https://prnt.sc/1u819b5
+![image](https://user-images.githubusercontent.com/44971394/135822160-3fd90e92-4e8b-4b1c-88ca-32a1e18b3bc1.png)
+
  
 
 #### d. 
-https://prnt.sc/1u81vd3
+![image](https://user-images.githubusercontent.com/44971394/135822193-c184a055-03f8-4685-988b-dbe2e097d088.png)
+
 *Для чего нужна команда login?*
 **В данном случае она включает доступ к VTY.**
 
 
 
 ### Шаг 2.
-https://prnt.sc/1u83f4y
+![image](https://user-images.githubusercontent.com/44971394/135822229-755c4c82-23a4-4fb1-b121-974bcdde7ad8.png)
+
 
 
 ## Часть 3.
@@ -242,14 +249,17 @@ end
 ### Шаг 2.
 
 #### a.
-https://prnt.sc/1u8923d
+![image](https://user-images.githubusercontent.com/44971394/135822260-63c1effd-d044-4728-bfce-160e717ac670.png)
+
 
 #### b.
-https://prnt.sc/1u893j5
+![image](https://user-images.githubusercontent.com/44971394/135822283-9ba49b6f-4848-42df-9e04-dc3c2f5c16f7.png)
+
 
 
 ### Шаг 3.
-https://prnt.sc/1u8am7w
+![image](https://user-images.githubusercontent.com/44971394/135822305-2c371844-cd09-443e-91fc-5b96ea161fba.png)
+
 
 
 
