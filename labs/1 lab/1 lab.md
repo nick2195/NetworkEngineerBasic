@@ -3,10 +3,12 @@
 ### Шаг 1
 
 #### a. 
+
 ![image](https://user-images.githubusercontent.com/44971394/135821145-d5fe57e9-2764-4c7f-a684-7b9f9888ee5b.png)
 
 
 #### b.
+
 ![image](https://user-images.githubusercontent.com/44971394/135821455-c259a69e-513d-4edb-a8d9-72be10b23f71.png)
 
 
@@ -16,6 +18,7 @@
 ### Шаг 2
 
 #### a. 
+
 ![image](https://user-images.githubusercontent.com/44971394/135821548-80fc1d6a-f77a-46ab-92a7-5c36afb8116c.png)
 
 
@@ -57,6 +60,7 @@ interface Vlan1
 
 #### f.
 *Какие выходные данные вы видите?*
+
 ![image](https://user-images.githubusercontent.com/44971394/135821877-d0ff8937-a0b7-4653-a3a7-86a31eee7b82.png)
 
 
@@ -72,6 +76,7 @@ interface Vlan1
 **00:17:59:A7:51:80**
 
 #### h.
+
 ![image](https://user-images.githubusercontent.com/44971394/135821933-b4572fed-700a-40a7-ad06-a9f753a67f2c.png)
 
 
@@ -101,6 +106,7 @@ interface Vlan1
 
 #### j.
 *Какое имя присвоено образу Cisco IOS?*
+
 ![image](https://user-images.githubusercontent.com/44971394/135822063-33476c06-198b-4606-8c4b-3d0e26a2d19b.png)
 
 
@@ -109,17 +115,21 @@ interface Vlan1
 ### Шаг 1.
 
 #### a. 
+
 ![image](https://user-images.githubusercontent.com/44971394/135822098-ab55a633-d6d7-4be3-b514-4914af6ccab2.png)
 
 #### b. 
+
 ![image](https://user-images.githubusercontent.com/44971394/135822131-2edea39e-8e5e-46b8-8f13-8fab0515cbf7.png)
 
 #### c.
+
 ![image](https://user-images.githubusercontent.com/44971394/135822160-3fd90e92-4e8b-4b1c-88ca-32a1e18b3bc1.png)
 
  
 
 #### d. 
+
 ![image](https://user-images.githubusercontent.com/44971394/135822193-c184a055-03f8-4685-988b-dbe2e097d088.png)
 
 *Для чего нужна команда login?*
@@ -128,6 +138,7 @@ interface Vlan1
 
 
 ### Шаг 2.
+
 ![image](https://user-images.githubusercontent.com/44971394/135822229-755c4c82-23a4-4fb1-b121-974bcdde7ad8.png)
 
 
@@ -251,15 +262,18 @@ end
 ### Шаг 2.
 
 #### a.
+
 ![image](https://user-images.githubusercontent.com/44971394/135822260-63c1effd-d044-4728-bfce-160e717ac670.png)
 
 
 #### b.
+
 ![image](https://user-images.githubusercontent.com/44971394/135822283-9ba49b6f-4848-42df-9e04-dc3c2f5c16f7.png)
 
 
 
 ### Шаг 3.
+
 ![image](https://user-images.githubusercontent.com/44971394/135822305-2c371844-cd09-443e-91fc-5b96ea161fba.png)
 
 
