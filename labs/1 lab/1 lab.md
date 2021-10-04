@@ -3,7 +3,8 @@
 ### Шаг 1
 
 #### a. 
-https://prnt.sc/1lu6h2p
+![image](https://user-images.githubusercontent.com/44971394/135821145-d5fe57e9-2764-4c7f-a684-7b9f9888ee5b.png)
+
 
 #### b.
 https://prnt.sc/1lub1ia
