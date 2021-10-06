@@ -3,17 +3,15 @@
 
 ### Шаг 1. Подключите сеть в соответствии с топологией.
 
-
+![image](https://user-images.githubusercontent.com/44971394/136217066-ec0a2ca4-4cc9-4ece-817d-b3bd721a9b8b.png)
 
 ### Шаг 2. Настройте узлы ПК.
 
-
-
+![image](https://user-images.githubusercontent.com/44971394/136217642-2064ec97-e34c-49a9-b343-2ebf1f37c442.png)
 
 ### Шаг 3. Выполните инициализацию и перезагрузку коммутаторов.
 
-
-
+![image](https://user-images.githubusercontent.com/44971394/136219317-5ad8ed04-63ab-4a97-9bcd-d5875a02e65b.png)
 
 ### Шаг 4. Настройте базовые параметры каждого коммутатора.
 
@@ -21,11 +19,35 @@
 
 #### a.	Настройте имена устройств в соответствии с топологией.
 
+Switch>enable         
+Switch#conf t
+Enter configuration commands, one per line.  End with CNTL/Z.
+Switch(config)#hostname S1
+S1(config)#
+
+Switch>enable
+Switch#conf t
+Enter configuration commands, one per line.  End with CNTL/Z.
+Switch(config)#hostname S2
+S2(config)#
+
 #### b.	Настройте IP-адреса, как указано в таблице адресации.
+
+S1(config)#interface vlan 1
+S1(config-if)#ip address 192.168.1.11 255.255.255.0
+S1(config-if)#no shutdown
+
+S2(config)#interface vlan 1
+S2(config-if)#ip address 192.168.1.12 255.255.255.0
+S2(config-if)#no shutdown
 
 #### c.	Назначьте cisco в качестве паролей консоли и VTY.
 
+![image](https://user-images.githubusercontent.com/44971394/136225748-3877d49d-6c20-4a5b-bd0d-e1fe0ad13bc8.png)
+
 #### d.	Назначьте class в качестве пароля доступа к привилегированному режиму EXEC.
+
+![image](https://user-images.githubusercontent.com/44971394/136225771-21ec5d5e-d13e-46b7-b00a-813b622dace3.png)
 
 **Закройте окно настройки.**
 
@@ -43,10 +65,8 @@
 
 *Вопрос:*
 *Назовите физические адреса адаптера Ethernet.*
-
-*MAC-адрес компьютера PC-A:*
-
-*MAC-адрес компьютера PC-B:*
+*MAC-адрес компьютера PC-A:* **00E0.B019.52A9**
+*MAC-адрес компьютера PC-B:* **00D0.5800.ADB6**
 
 **Закройте окно командной строки.**
 
@@ -56,10 +76,8 @@
 
 *Вопросы:*
 *Назовите адреса оборудования во второй строке выходных данных команды (или зашитый адрес — bia).*
-
-*МАС-адрес коммутатора S1 Fast Ethernet 0/1:*
-
-*МАС-адрес коммутатора S2 Fast Ethernet 0/1:*
+*МАС-адрес коммутатора S1 Fast Ethernet 0/1:* **0001.63e0.7301**
+*МАС-адрес коммутатора S2 Fast Ethernet 0/1:* **0001.4204.1201**
 
 **Закройте окно настройки.**
 
