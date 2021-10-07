@@ -33,9 +33,9 @@ S2(config)#
 
 #### b.	Настройте IP-адреса, как указано в таблице адресации.
 
-S1(config)#interface vlan 1
-S1(config-if)#ip address 192.168.1.11 255.255.255.0
-S1(config-if)#no shutdown
+S1(config)#interface vlan 1  
+S1(config-if)#ip address 192.168.1.11 255.255.255.0  
+S1(config-if)#no shutdown  
 
 S2(config)#interface vlan 1
 S2(config-if)#ip address 192.168.1.12 255.255.255.0
