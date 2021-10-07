@@ -121,7 +121,7 @@ Vlan    Mac Address       Type        Ports
 
 #### a.	В привилегированном режиме EXEC введите команду clear mac address-table dynamic и нажмите клавишу Enter.
 
-**S2# clear mac address-table dynamic**
+**S2#clear mac address-table dynamic**
 
 #### b.	Снова быстро введите команду show mac address-table.
 
