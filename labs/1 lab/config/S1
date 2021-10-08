@@ -1,0 +1,63 @@
+Switch>enable  
+
+Switch #conf t  
+
+Enter configuration commands, one per line. End with CNTL/Z.  
+
+Switch (config) #no ip domain-lookup
+
+Switch (config) #hostname S1
+
+S1 (config) #service password-encryption
+
+S1 (config) #enable
+
+S1 (config) #enable sece
+
+S1 (config) #enable sec
+
+S1 (config) #enable secret class
+
+S1(config) #ba
+
+S1(config) #banner motd #
+
+Enter TEXT message. End with the character
+Unauthorized access is strictly prohibited. # 
+
+S1 (config) #int vlan 1
+
+S1 (config-if) #ip address 192.168.1.20 255.255.255.0
+
+S1 (config-if) #exit
+
+S1 (config) #exit
+
+S1 (config) #line con 0
+
+S1 (config-line) #password cisco
+
+S1 (config-line) #login
+
+S1 (config-line) #end
+
+S1 (config) #line con 0
+
+S1 (config-line) #logging synchronous
+
+S1 (config-line) #exit
+
+S1 #exit
+
+S1>enable
+Password:
+
+S1 #conf t
+
+S1 (config) #line vey 0 15
+
+S1 (config-line) #password cisco
+
+S1 (config-line) #login
+
+S1 (config-line) #end
