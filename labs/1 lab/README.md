@@ -147,6 +147,7 @@ interface Vlan1
 ### Шаг 1.
 
 #### a.
+```
 S1#show run  
 Building configuration...  
 Current configuration : 1319 bytes  
@@ -245,7 +246,7 @@ line vty 5 15
 !  
 !  
 end  
-
+```
 #### b.
 
 *Какова полоса пропускания этого интерфейса?*  
