@@ -21,10 +21,12 @@
 
 #### a.	Настройте имена устройств в соответствии с топологией.
 
+```
 Switch>enable         
 Switch#conf t  
 Switch(config)#hostname S1  
 S1(config)#  
+```
 
 Switch>enable  
 Switch#conf t  
