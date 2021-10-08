@@ -275,6 +275,7 @@ end
 ![image](https://user-images.githubusercontent.com/44971394/135822305-2c371844-cd09-443e-91fc-5b96ea161fba.png)
 
 
+Файл изменений на S1 [здесь](labs/1 lab/config/S1).
 
 
 ## Вопросы для повторения.
