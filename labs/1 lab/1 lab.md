@@ -172,7 +172,7 @@ spanning-tree extend system-id
 interface FastEthernet0/1  
 !  
 interface FastEthernet0/2  
-!
+!  
 interface FastEthernet0/3
 !  
 interface FastEthernet0/4  
