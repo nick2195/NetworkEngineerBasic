@@ -27,22 +27,23 @@ Switch#conf t
 Switch(config)#hostname S1  
 S1(config)#  
 ```
-
+```
 Switch>enable  
 Switch#conf t  
 Switch(config)#hostname S2  
 S2(config)#  
-
+```
 #### b.	Настройте IP-адреса, как указано в таблице адресации.
-
+```
 S1(config)#interface vlan 1  
 S1(config-if)#ip address 192.168.1.11 255.255.255.0  
 S1(config-if)#no shutdown  
-
+```
+```
 S2(config)#interface vlan 1  
 S2(config-if)#ip address 192.168.1.12 255.255.255.0  
 S2(config-if)#no shutdown  
-
+```
 #### c.	Назначьте cisco в качестве паролей консоли и VTY.
 
 ![image](https://user-images.githubusercontent.com/44971394/136225748-3877d49d-6c20-4a5b-bd0d-e1fe0ad13bc8.png)
